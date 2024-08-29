@@ -1,7 +1,0 @@
-# Config Files
-
-## Kitty
-
-## NVIM
-
-
